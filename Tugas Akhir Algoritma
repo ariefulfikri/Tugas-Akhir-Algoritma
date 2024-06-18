@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+    print("Panduan Tugas Akhir Algoritma dan Pemograman");
+}
+// Nama : M Arieful Fikri
+// Nim  : 12250512980
